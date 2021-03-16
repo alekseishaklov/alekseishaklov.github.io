@@ -6,6 +6,6 @@
 
 [Test](Test.ru)
 
-<p align="justify">
+<p align="center">
 Testtestetetjdhfvbkjgbkgjbb,,,,,,,,,,,,,,,,,,,,ffffffffff,ffgjurhbrggrthgrfthtrTesttestetetjdhfvbkjgbkgjbb,,,,,,,,,,,,,,,,,,,,ffffffffff,ffgjurhbrggrthgrfthtrTesttestetetjdhfvbkjgbkgjbb,,,,,,,,,,,,,,,,,,,,ffffffffff,ffgjurhbrggrthgrfthtrTesttestetetjdhfvbkjgbkgjbb,,,,,,,,,,,,,,,,,,,,ffffffffff,ffgjurhbrggrthgrfthtrTesttestetetjdhfvbkjgbkgjbb,,,,,,,,,,,,,,,,,,,,ffffffffff,ffgjurhbrggrthgrfthtrTesttestetetjdhfvbkjgbkgjbb,,,,,,,,,,,,,,,,,,,,ffffffffff,ffgjurhbrggrthgrfthtrTesttestetetjdhfvbkjgbkgjbb,,,,,,,,,,,,,,,,,,,,ffffffffff,ffgjurhbrggrthgrfthtr
 </p>
