@@ -6,6 +6,6 @@
 
 [Test](Test.ru)
 
-<p align="center">
-Testtestetetjdhfvbkjgbkgjbb,,,,,,,,,,,,,,,,,,,,ffffffffff,ffgjurhbrggrthgrfthtrTesttestetetjdhfvbkjgbkgjbb,,,,,,,,,,,,,,,,,,,,ffffffffff,ffgjurhbrggrthgrfthtrTesttestetetjdhfvbkjgbkgjbb,,,,,,,,,,,,,,,,,,,,ffffffffff,ffgjurhbrggrthgrfthtrTesttestetetjdhfvbkjgbkgjbb,,,,,,,,,,,,,,,,,,,,ffffffffff,ffgjurhbrggrthgrfthtrTesttestetetjdhfvbkjgbkgjbb,,,,,,,,,,,,,,,,,,,,ffffffffff,ffgjurhbrggrthgrfthtrTesttestetetjdhfvbkjgbkgjbb,,,,,,,,,,,,,,,,,,,,ffffffffff,ffgjurhbrggrthgrfthtrTesttestetetjdhfvbkjgbkgjbb,,,,,,,,,,,,,,,,,,,,ffffffffff,ffgjurhbrggrthgrfthtr
+<p align="justify">
+Lorem upsum dolor sit amet. Lorem upsum dolor sit amet. Lorem upsum dolor sit amet. Lorem upsum dolor sit amet. Lorem upsum dolor sit amet. Lorem upsum dolor sit amet. Lorem upsum dolor sit amet. Lorem upsum dolor sit amet. Lorem upsum dolor sit amet. Lorem upsum dolor sit amet. Lorem upsum dolor sit amet. Lorem upsum dolor sit amet. Lorem upsum dolor sit amet. Lorem upsum dolor sit amet. Lorem upsum dolor sit amet. Lorem upsum dolor sit amet. Lorem upsum dolor sit amet. Lorem upsum dolor sit amet. Lorem upsum dolor sit amet. Lorem upsum dolor sit amet. Lorem upsum dolor sit amet. 
 </p>
