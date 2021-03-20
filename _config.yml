@@ -5,7 +5,7 @@ description:         ''
 url:                 https://alekseishaklov.github.io
 baseurl:             ''
 paginate:            5
-permalink:           pretty
+permalink:           /
 
 # About/contact
 author:
